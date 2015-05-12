@@ -1,0 +1,37 @@
+Bioinformática Avanzada
+Proyecto final
+
+----Red UAQ Alumnos-Investigadores
+
+--Descripción del problema
+Los alumnos de la Universidad Autónoma de Querétaro no conocen en su totalidad las áreas de investigación,
+las oportunidades de desarrollo y la posibilidad de la participación directa en proyectos de investigación
+científica durante su formación.
+Es importante mantener la apertura y el dialogo entre estudiantes e investigadores para lograr la
+incorporación de estudiantes a sus proyectos, lo que implicaría mayor productividad intelectual.
+Desarrollando esta herramienta informática, se abren las posibilidades tanto para estudiantes interesados en
+hacer ciencia así como para los investigadores de encontrar oportunidades para mayor participación en
+los proyectos de la universidad. 
+
+--Diseño
+Esta aplicación estará dirigida a investigadores y alumnos de la Universidad Autónoma de Querétaro, ya que
+será una forma innovadora y actual de búsqueda para encontrar en donde realizar tu servicio social, 
+prácticas laborales y/o tesis.
+Se requerirá que los usuarios (alumnos e investigadores) llenen información necesaria para poder igualar las
+necesidades de ambas partes y así poder ofrecer las opciones que se brindan en la Universidad. Los datos
+que los usuarios estarán proporcionando son los siguientes:
+-En el caso de los alumnos se solicitara:
+Nombre, afiliación (licenciatura a la que pertenecen), cuenta de correo electrónico, teléfono de contacto, 
+así como los intereses y habilidades de este.
+-En el caso de los investigadores se solicitara:
+Nombre, su afiliación (a que facultad pertenecen), cuenta de correo electrónico, teléfono de contacto,
+así como los intereses del docente.
+
+--Desarrollo
+Para desarrollar la aplicación será necesario crear bases de datos en las que se contengan los datos 
+proporcionados por los usuarios. Para esto se crearan bases de datos con habilidades, intereses y trabajos
+antes descritas para que se tengan opciones, así como la libertad de agregar alguna otra que no esté en la
+base de datos.
+Se crearan llaves de identificación únicas para que con estas se pueda llevar a igualar los intereses de alumnos 
+e investigadores y poder emparejarlos. Así como un modo dinámico en el cual sea más sencillo de integrar la
+información el usuario.
